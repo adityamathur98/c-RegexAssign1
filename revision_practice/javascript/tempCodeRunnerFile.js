@@ -1,3 +1,4 @@
-function showMess() {
-//   console.log("Hello");
-// }
+function getIndiaCarsArr(arrOfCarBrands) {
+  let indiaCar = [];
+
+  for
